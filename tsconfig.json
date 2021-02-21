@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "sourceMap": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "module": "system",
+    "moduleResolution": "node",
+    "noImplicitAny": false
+  },
+
+  "include": ["./**/*.ts"],
+  "exclude": ["js"]
+}
